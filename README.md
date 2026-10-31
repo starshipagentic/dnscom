@@ -1,2 +1,3 @@
 # dnscom
-Placeholder repo for the dnscom project
+
+Placeholder package. The `dnscom` name is reserved for a future project.
